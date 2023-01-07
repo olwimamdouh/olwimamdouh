@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on @Etisalat Misr
+- 🔭 I’m currently working on @AWS
 - 🌱 I’m currently learning DevOps and Cloud.
 - 👯 I’m looking to collaborate on Open source projects.
 - 🤔 I’m looking for helping other people resolve and overcome their hurdles.
